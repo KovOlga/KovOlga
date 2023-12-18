@@ -1,13 +1,13 @@
 <h1 style="padding-left: 50px;">Всем привет, меня зовут Ольга!</h1>
 
 <p align="center">
-    <a style="color: white; margin: 0" href="https://t.me/Kvl_Olga" target="blank" style="color: white; margin: 0">
+    <a style="color: white; margin: 0; text-decoration: none" href="https://t.me/Kvl_Olga" target="blank" style="color: white; margin: 0">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>&nbsp;
-    <a style="color: white; margin: 0" href="mailto:kovalevskayaswitch2.0@gmail.com" target="blank" style="color: white; margin: 0">
+    <a style="color: white; margin: 0; text-decoration: none" href="mailto:kovalevskayaswitch2.0@gmail.com" target="blank" style="color: white; margin: 0">
         <img src="./images/gmail.webp" style="width: 40px">
     </a>&nbsp;
-    <a style="color: white; margin: 0" href="mailto:switch.to.olga@yandex.ru" target="blank" style="color: white; margin: 0">
+    <a style="color: white; margin: 0; text-decoration: none" href="mailto:switch.to.olga@yandex.ru" target="blank" style="color: white; margin: 0">
         <img src="./images/yandex.jpg" style="width: 80px">
     </a>&nbsp;
 </p>
