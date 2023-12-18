@@ -6,7 +6,7 @@
     <div>
     </div>
 </div>
-<p style="text-align: center; margin: 0; padding: 0">
+<p align="center" margin="0" padding="0">
     <a style="display: inline-block; color: white; margin: 0; margin-right: 10px; text-decoration: none; padding: 0" href="https://t.me/Kvl_Olga" target="blank">
                 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="display: block; width: 130px; margin: 0; padding: 0">
     </a>
