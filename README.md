@@ -6,26 +6,17 @@
     <div>
     </div>
 </div>
-
-<table align="center" style="border:0px solid yellow">
-    <tr>
-        <td>
-            <a style="color: white; margin: 0; text-decoration: none" href="https://t.me/Kvl_Olga" target="blank" style="color: white; margin: 0; padding: 0">
-                <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="width: 120px; margin: 0; padding: 0">
-            </a>
-        </td>
-         <td>
-            <a style="color: white; margin: 0; text-decoration: none" href="mailto:kovalevskayaswitch2.0@gmail.com" target="blank" style="color: white; margin: 0; padding: 0">
-                <img src="./images/gmail.webp" style="width: 50px; margin: 0; padding: 0">
-            </a>
-        </td>
-         <td>
-            <a style="color: white; margin: 0; text-decoration: none" href="mailto:switch.to.olga@yandex.ru" target="blank" style="color: white; margin: 0; padding: 0">
-                <img src="./images/yandex.jpg" style="width: 90px; margin: 0; padding: 0">
-            </a>
-        </td>
-    </tr>
-</table>
+<p style="text-align: center; margin: 0; padding: 0">
+    <a style="display: inline-block; color: white; margin: 0; margin-right: 10px; text-decoration: none; padding: 0" href="https://t.me/Kvl_Olga" target="blank">
+                <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="display: block; width: 130px; margin: 0; padding: 0">
+    </a>
+    <a style="display: inline-block; color: white; margin: 0;margin-right: 10px; text-decoration: none; padding: 0" href="mailto:kovalevskayaswitch2.0@gmail.com" target="blank" >
+                <img src="./images/gmail.webp" style="display: block; width: 50px; margin: 0; padding: 0">
+    </a>
+    <a style="display: inline-block; color: white; margin: 0; text-decoration: none; padding: 0" href="mailto:switch.to.olga@yandex.ru" target="blank" >
+                <img src="./images/yandex.jpg" style="display: block; width: 93px; margin: 0; padding: 0">
+    </a>
+</p>
 
 ##
 
