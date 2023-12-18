@@ -7,17 +7,25 @@
     </div>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 25px">
-    <a style="color: white; margin: 0; text-decoration: none" href="https://t.me/Kvl_Olga" target="blank" style="color: white; margin: 0; padding: 0">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="width: 120px; margin: 0; padding: 0">
-    </a>
-    <a style="color: white; margin: 0; text-decoration: none" href="mailto:kovalevskayaswitch2.0@gmail.com" target="blank" style="color: white; margin: 0; padding: 0">
-        <img src="./images/gmail.webp" style="width: 50px; margin: 0; padding: 0">
-    </a>
-    <a style="color: white; margin: 0; text-decoration: none" href="mailto:switch.to.olga@yandex.ru" target="blank" style="color: white; margin: 0; padding: 0">
-        <img src="./images/yandex.jpg" style="width: 90px; margin: 0; padding: 0">
-    </a>
-</div>
+<table align="center" >
+    <tr>
+        <td>
+            <a style="color: white; margin: 0; text-decoration: none" href="https://t.me/Kvl_Olga" target="blank" style="color: white; margin: 0; padding: 0">
+                <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="width: 120px; margin: 0; padding: 0">
+            </a>
+        </td>
+         <td>
+            <a style="color: white; margin: 0; text-decoration: none" href="mailto:kovalevskayaswitch2.0@gmail.com" target="blank" style="color: white; margin: 0; padding: 0">
+                <img src="./images/gmail.webp" style="width: 50px; margin: 0; padding: 0">
+            </a>
+        </td>
+         <td>
+            <a style="color: white; margin: 0; text-decoration: none" href="mailto:switch.to.olga@yandex.ru" target="blank" style="color: white; margin: 0; padding: 0">
+                <img src="./images/yandex.jpg" style="width: 90px; margin: 0; padding: 0">
+            </a>
+        </td>
+    </tr>
+</table>
 
 ##
 
