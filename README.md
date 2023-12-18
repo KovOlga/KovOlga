@@ -1,19 +1,10 @@
-<div display="flex" flex-direction="row" style="display: flex; flex-direction: row; align-items: center; justify-content: space-between">
-<h1>
+<img align="right" alt="GIF" width="140px" src="./images/ceiling_parrot.gif" />
+
+<h1 display="inline-block">
             <p>Всем привет,</p>
             <p>меня зовут Ольга</p>
 </h1>
-    <div>
 
-<!-- <span style="display: inline-block"> -->
-
-![part_parrot](images/ceiling_parrot.gif)
-
-<!-- </span> -->
-
-</div>
-
-</div>
 <p align="center" margin="0" padding="0">
     <a style="display: inline-block; color: white; margin: 0; margin-right: 10px; text-decoration:none; padding: 0" href="https://t.me/Kvl_Olga" target="blank">
                 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="display: block; width: 130px; margin: 0; padding: 0">
