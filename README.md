@@ -63,7 +63,7 @@
                         srcset="https://github-readme-stats-skyz.vercel.app/api?username=kovolga&show_icons=true&hide=stars,contribs&theme=github_dark&hide_border=true"
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     />
-                    <img src="https://github-readme-stats.vercel.app/api?username=kovolga&show_icons=true&hide=stars,contribs&hide_border=true&theme=transparent" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=kovolga&show_icons=true&hide=stars,contribs&theme=transparent&hide_border=true" />
                 </picture>
             </p>
         </td>
