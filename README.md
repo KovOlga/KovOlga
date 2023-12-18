@@ -56,14 +56,14 @@
             <p align="center" style="margin: 0; paddig: 0">
                 <picture>
                     <source
-                        srcset="https://github-readme-stats-skyz.vercel.app/api?username=kovolga&show_icons=true&hide=stars,contribs&theme=github_dark&hide_border=true"
+                        srcset="https://github-readme-stats-skyz.vercel.app/api?username=kovolga&show_icons=true&theme=github_dark&hide_border=true"
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
-                        srcset="https://github-readme-stats-skyz.vercel.app/api?username=kovolga&show_icons=true&hide=stars,contribs&theme=github_dark&hide_border=true"
+                        srcset="https://github-readme-stats-skyz.vercel.app/api?username=kovolga&show_icons=true&theme=github_dark&hide_border=true"
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     />
-                    <img src="https://github-readme-stats.vercel.app/api?username=kovolga&show_icons=true&hide=stars,contribs&theme=transparent&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=kovolga&show_icons=true&hide_border=true" />
                 </picture>
             </p>
         </td>
