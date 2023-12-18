@@ -11,8 +11,9 @@
         <img src="./images/yandex.jpg" style="width: 80px">
     </a>&nbsp;
 </p>
-<hr style="width: 100%; size: 1" />
-<br />
+
+##
+
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
@@ -31,8 +32,9 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">&nbsp;
 </p>
-<hr style="width: 100%" />
-<br />
+
+##
+
 <table align="center" style="border-spacing: 10px; border-collapse: inherit">
     <tr style="background-color: rgb(13, 17, 23)">
         <!-- Most Used Languages -->
