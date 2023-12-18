@@ -7,7 +7,7 @@
     </div>
 </div>
 
-<table align="center" >
+<table align="center" style="border: none">
     <tr>
         <td>
             <a style="color: white; margin: 0; text-decoration: none" href="https://t.me/Kvl_Olga" target="blank" style="color: white; margin: 0; padding: 0">
