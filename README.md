@@ -1,11 +1,15 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between">
-    <h1>
+<div display="flex" flex-direction="row" style="display: flex; flex-direction: row; align-items: center; justify-content: space-between">
+<h1>
             <p>Всем привет,</p>
             <p>меня зовут Ольга</p>
-    </h1>
+</h1>
     <div>
 
+<!-- <span style="display: inline-block"> -->
+
 ![part_parrot](images/ceiling_parrot.gif)
+
+<!-- </span> -->
 
 </div>
 
