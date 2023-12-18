@@ -11,7 +11,7 @@
         <img src="./images/yandex.jpg" style="width: 80px">
     </a>&nbsp;
 </p>
-<hr style="width: 100%" />
+<hr style="width: 100%; size: 1" />
 <br />
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
