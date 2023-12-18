@@ -1,15 +1,22 @@
-<h1 style="padding-left: 50px;">Всем привет, меня зовут Ольга!</h1>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between">
+    <h1>
+            <p>Всем привет,</p>
+            <p>меня зовут Ольга!</p>
+    </h1>
+    <div>
+    </div>
+</div>
 
 <p align="center">
-    <a style="color: white; margin: 0; text-decoration: none" href="https://t.me/Kvl_Olga" target="blank" style="color: white; margin: 0">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>&nbsp;
-    <a style="color: white; margin: 0; text-decoration: none" href="mailto:kovalevskayaswitch2.0@gmail.com" target="blank" style="color: white; margin: 0">
-        <img src="./images/gmail.webp" style="width: 40px">
-    </a>&nbsp;
-    <a style="color: white; margin: 0; text-decoration: none" href="mailto:switch.to.olga@yandex.ru" target="blank" style="color: white; margin: 0">
-        <img src="./images/yandex.jpg" style="width: 80px">
-    </a>&nbsp;
+            <a style="color: white; margin: 0; text-decoration: none" href="https://t.me/Kvl_Olga" target="blank" style="color: white; margin: 0">
+                <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+            </a>
+            <a style="color: white; margin: 0; text-decoration: none" href="mailto:kovalevskayaswitch2.0@gmail.com" target="blank" style="color: white; margin: 0">
+                <img src="./images/gmail.webp" style="width: 40px">
+            </a>
+            <a style="color: white; margin: 0; text-decoration: none" href="mailto:switch.to.olga@yandex.ru" target="blank" style="color: white; margin: 0">
+                <img src="./images/yandex.jpg" style="width: 80px">
+            </a>
 </p>
 
 ##
@@ -24,7 +31,6 @@
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">&nbsp;
