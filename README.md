@@ -39,11 +39,11 @@
 
 ##
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Leet_Olga?theme=dark&height=200)
+![codewars](https://www.codewars.com/users/Kov_Olga/badges/large)
 
 ##
 
-![codewars](https://www.codewars.com/users/Kov_Olga/badges/large)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Leet_Olga?theme=dark&height=200)](https://leetcode.com/Leet_Olga)
 
 ##
 
