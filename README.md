@@ -39,7 +39,7 @@
 
 ##
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Leet_Olga?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Leet_Olga?theme=dark&height=200)
 
 ##
 
