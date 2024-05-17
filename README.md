@@ -17,9 +17,7 @@
     </a>
 </p>
 
-##
-
-### Frontend
+## Frontend
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
@@ -34,9 +32,7 @@
 
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">&nbsp;
 
-##
-
-### Backend
+## Backend
 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">&nbsp;
@@ -44,9 +40,7 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 
-##
-
-### Common
+## Common
 
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">&nbsp;
@@ -64,13 +58,9 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Leet_Olga?theme=dark&height=200)](https://leetcode.com/Leet_Olga)
 
-##
+<!-- ![codewars](https://www.codewars.com/users/Kov_Olga/badges/large)
 
-![codewars](https://www.codewars.com/users/Kov_Olga/badges/large)
-
-##
-
-### GitHub statistics
+## -->
 
 <table align="center" style="border-spacing: 10px; border-collapse: inherit">
     <tr style="background-color: rgb(13, 17, 23)">
